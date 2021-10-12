@@ -4,7 +4,7 @@ import './ChatListItem.css'
 export default () => {
     return (
         <div className="chatListItem">
-            <img className="chatListItem--avatar" src="https://www.w3schools.com/howto/img_avatar2.png" alt="foto perfil" />
+            <img className="chatListItem--avatar" src="https://www.w3schools.com/howto/img_avatar2.png" alt="foto perfilz" />
 
             <div className="chatListItem--lines">
                 <div className="chatListItem--line">
