@@ -53,7 +53,7 @@ export default () => {
                 </div>
 
                 <div className="chatWindow--inputarea">
-                    <input className="chatWindow--input" type="text" />
+                    <input placeholder="Digite uma mensagem" className="chatWindow--input" type="text" />
                 </div>
 
                 <div className="chatWindow--pos">
